@@ -1,1 +1,2 @@
-1. Belajar Select 
+1. Belajar Select DI SQL
+2. Belajar DDL
