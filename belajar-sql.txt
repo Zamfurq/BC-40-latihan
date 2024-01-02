@@ -1,2 +1,4 @@
 1. Belajar Select DI SQL
 2. Belajar DDL
+3. Belajar DML
+4. Belajar ERD
